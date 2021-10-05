@@ -1,0 +1,16 @@
+{
+  "editor.fontFamily": " FiraCode, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "SynthWave '84",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.port": 5502
+}
